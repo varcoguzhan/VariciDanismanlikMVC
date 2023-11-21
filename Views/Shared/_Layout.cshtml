@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+        <link rel="stylesheet" href="~/DanışmanlıkMVC.MVC.styles.css" asp-append-version="true" />
+        <title>VarıcıDanışmanlıkMVC</title>
+    </head>
+</head>
+
+<body>
+    @await Html.PartialAsync("_HeaderPartial")
+    <div class="container-fluid p-0">
+        <main role="main" class="pb-3 header-wh ">
+            @RenderBody()
+        </main>
+    </div>
+
+    @await Html.PartialAsync("_FooterPartial")
+    @await Html.PartialAsync("_ScriptsPartial")
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

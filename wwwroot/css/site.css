@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#header {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  padding: 15px;
+}
+.body {
+  background-color: #5cd2e6;
+}
+#header-cars {
+  position: center;
+  z-index: 2;
+  width: 100%;
+  padding: 15px;
+}
+.customer-desing {
+  border-radius: 10px;
+  color: green;
+  background-color: rgb(rgba(49, 22, 42, 0.964));
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar {
+  align-items: center;
+}
+.flex-items {
+  display: flex;
+  justify-content: center;
+}
+.boyut {
+  height: 200px;
+  width: 200px;
+
+  justify-content: flex-end;
+}
+
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bg-menu1 {
+  background-color: rgba(57, 64, 73, 0.139);
+}
+
+.w-75 {
+  width: 75%;
+}
+.w-100 {
+  width: 100%;
+}
+#top-menu {
+  list-style-type: none;
+  justify-content: flex-end;
+}
+
+.card-img-top-my {
+  height: 40vh;
+  /* object-fit: cover; */
+  /* object-position: top left; */
+}
+.mr-2 {
+  margin-right: 4px;
+}
+.cars-bg {
+  background-color: rgba(39, 158, 255, 0.252);
+  height: 100%;
+  width: 100%;
+}
+.menu-item {
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+}
+.menu-item a {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+.content {
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/image/austin-distel-wD1LRb9OeEo-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.content-about {
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/image/About.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.content-contact {
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/image/Contact.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.content-services {
+    width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/image/Media.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+
+}
+.header-wh{
+  
+}
+
+
+.mt-4 {
+  margin-top: 50px;
+}
+.title-color {
+  color: rgb(17, 57, 70);
+}
+
+.content h1 {
+  color: white;
+}
+
+.content p {
+  margin: 25px auto;
+  color: white;
+}
+
+.content-inside {
+  z-index: 1;
+  text-align: center;
+}
