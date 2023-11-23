@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/5U9yrK2ERVN4rL8T7MmENMpNaLmH0UQXMsIGfs53SR6Ieq7tc/sovcCIZZ7/R98YgzndxMWHpHc862wpj1xA==",
+  "dgSpecHash": "7an2q6d2JJjEXkvr3xCbQz7M4v2C9gOOfxFvOfHcRMcIISXgX0DcFtWi0+vGP8bu2gaUdEJD86DKpOAovXlePg==",
   "success": true,
-  "projectFilePath": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/VariciDanismanlikMVC.csproj",
+  "projectFilePath": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/VariciDanismanlikMVC.csproj",
   "expectedPackageFiles": [
     "/Users/varcoguzhan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/varcoguzhan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
