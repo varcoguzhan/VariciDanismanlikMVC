@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using VariciDanismanlikMVC.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<IletisimContext>(options=>{
+    var confing= builder.Configuration;
+    var connectionString= confing.GetConnectionString("database");
+    options.UseSqlite(connectionString);
+});
 
 var app = builder.Build();
 
