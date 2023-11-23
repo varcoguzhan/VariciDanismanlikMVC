@@ -1865,11 +1865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/VariciDanismanlikMVC.csproj",
+      "projectUniqueName": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/VariciDanismanlikMVC.csproj",
       "projectName": "VariciDanismanlikMVC",
-      "projectPath": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/VariciDanismanlikMVC.csproj",
+      "projectPath": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/VariciDanismanlikMVC.csproj",
       "packagesPath": "/Users/varcoguzhan/.nuget/packages/",
-      "outputPath": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/",
+      "outputPath": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/varcoguzhan/.nuget/NuGet/NuGet.Config"

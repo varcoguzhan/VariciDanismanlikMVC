@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VariciDanismanlikMVC
 build_property.RootNamespace = VariciDanismanlikMVC
-build_property.ProjectDir = /Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/
+build_property.ProjectDir = /Users/varcoguzhan/Desktop/VariciDanismanlikMVC/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC
+build_property.MSBuildProjectDirectory = /Users/varcoguzhan/Desktop/VariciDanismanlikMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/About.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/Contact.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/Education.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/Education.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FZHVjYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/Finance.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/Finance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GaW5hbmNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/Index.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/Management.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/Management.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NYW5hZ2VtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Home/Services.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Shared/Error.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Shared/_FooterPartial.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Shared/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Shared/_HeaderPartial.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Shared/_HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Shared/_ScriptsPartial.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Shared/_ScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/_ViewImports.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/_ViewStart.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/Views/Shared/_Layout.cshtml]
+[/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xd658nss3m

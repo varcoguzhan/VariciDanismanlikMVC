@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xVyTYjZjtZvzh/lT2FRrCg4uuivT1y3sALFnFWjO6jc=",
+  "Hash": "lLQSyahbxPUN40kr1kXFWzJv+hfB+Y9TKGLDUIlvqVg=",
   "Source": "VariciDanismanlikMVC",
   "BasePath": "_content/VariciDanismanlikMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "VariciDanismanlikMVC/wwwroot",
       "Source": "VariciDanismanlikMVC",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/bundle/VariciDanismanlikMVC.styles.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/bundle/VariciDanismanlikMVC.styles.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "VariciDanismanlikMVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/bundle/VariciDanismanlikMVC.styles.css"
+      "OriginalItemSpec": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/bundle/VariciDanismanlikMVC.styles.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/projectbundle/VariciDanismanlikMVC.bundle.scp.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/projectbundle/VariciDanismanlikMVC.bundle.scp.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "VariciDanismanlikMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/projectbundle/VariciDanismanlikMVC.bundle.scp.css"
+      "OriginalItemSpec": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/scopedcss/projectbundle/VariciDanismanlikMVC.bundle.scp.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/.DS_Store",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/.DS_Store",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/css/site.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/css/site.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/favicon.ico",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/favicon.ico",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/About.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/About.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/About.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/image/About.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/austin-distel-wD1LRb9OeEo-unsplash.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/austin-distel-wD1LRb9OeEo-unsplash.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/austin-distel-wD1LRb9OeEo-unsplash.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/image/austin-distel-wD1LRb9OeEo-unsplash.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/Contact.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/Contact.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/Contact.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/image/Contact.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/Eğitim.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/Eğitim.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/Eğitim.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/image/Eğitim.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/Finance.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/Finance.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/Finance.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/image/Finance.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/Media.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/Media.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/Media.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/image/Media.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/_commonjsHelpers-67085353.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/_commonjsHelpers-67085353.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/_commonjsHelpers-67085353.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/_commonjsHelpers-67085353.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/_react_commonjs-external-a1351e34.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/_react_commonjs-external-a1351e34.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/_react_commonjs-external-a1351e34.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/_react_commonjs-external-a1351e34.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/_rollupPluginBabelHelpers-8ce54c82.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/_rollupPluginBabelHelpers-8ce54c82.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/_rollupPluginBabelHelpers-8ce54c82.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/_rollupPluginBabelHelpers-8ce54c82.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-_rollupPluginBabelHelpers-a2e90765.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-_rollupPluginBabelHelpers-a2e90765.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-_rollupPluginBabelHelpers-a2e90765.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-_rollupPluginBabelHelpers-a2e90765.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-CustomArrows-49960b5a.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-CustomArrows-49960b5a.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-CustomArrows-49960b5a.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-CustomArrows-49960b5a.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-dataAids-0f4d4b20.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-dataAids-0f4d4b20.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-dataAids-0f4d4b20.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-dataAids-0f4d4b20.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-dataAids-6a839d53.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-dataAids-6a839d53.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-dataAids-6a839d53.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-dataAids-6a839d53.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-defaultSocialIconPack-a2c518b6.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-defaultSocialIconPack-a2c518b6.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-defaultSocialIconPack-a2c518b6.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-defaultSocialIconPack-a2c518b6.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-FlyoutMenu-Component-bd43c5d0.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-FlyoutMenu-Component-bd43c5d0.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-FlyoutMenu-Component-bd43c5d0.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-FlyoutMenu-Component-bd43c5d0.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-gallery2-Gallery-a96c48b3.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-gallery2-Gallery-a96c48b3.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-gallery2-Gallery-a96c48b3.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-gallery2-Gallery-a96c48b3.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-GalleryImage-cac21684.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-GalleryImage-cac21684.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-GalleryImage-cac21684.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-GalleryImage-cac21684.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-humanisticFilled-91edd0e1.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-humanisticFilled-91edd0e1.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-humanisticFilled-91edd0e1.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-humanisticFilled-91edd0e1.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-index-4e26cd6b.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-index-4e26cd6b.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-index-4e26cd6b.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-index-4e26cd6b.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-index2-87bd33e6.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-index2-87bd33e6.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-index2-87bd33e6.js",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-index2-87bd33e6.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-index3-c8de852e.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-index3-c8de852e.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-index3-c8de852e.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-index3-c8de852e.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-layout13-Theme-publish-Theme-7252afe2.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-layout13-Theme-publish-Theme-7252afe2.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-layout13-Theme-publish-Theme-7252afe2.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-layout13-Theme-publish-Theme-7252afe2.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-legacyOverrides-42582241.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-legacyOverrides-42582241.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-legacyOverrides-42582241.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-legacyOverrides-42582241.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-LinkAwareComponent-ed6872ee.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-LinkAwareComponent-ed6872ee.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-LinkAwareComponent-ed6872ee.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-LinkAwareComponent-ed6872ee.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-loaders-fffeeba5.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-loaders-fffeeba5.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-loaders-fffeeba5.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-loaders-fffeeba5.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-navigationDrawer-27f5f1f5.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-navigationDrawer-27f5f1f5.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-navigationDrawer-27f5f1f5.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-navigationDrawer-27f5f1f5.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-overlayTypes-e1dbe765.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-overlayTypes-e1dbe765.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-overlayTypes-e1dbe765.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-overlayTypes-e1dbe765.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-renderLightbox-069ccd76.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-renderLightbox-069ccd76.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-renderLightbox-069ccd76.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-renderLightbox-069ccd76.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-searchFormLocations-c86f2a99.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-searchFormLocations-c86f2a99.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-searchFormLocations-c86f2a99.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-searchFormLocations-c86f2a99.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-themeOverrides-e736c017.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-themeOverrides-e736c017.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-themeOverrides-e736c017.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-themeOverrides-e736c017.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-Toggle-37f740c7.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-Toggle-37f740c7.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-Toggle-37f740c7.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-Toggle-37f740c7.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-util-5fd4c061.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/bs-util-5fd4c061.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/bs-util-5fd4c061.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/bs-util-5fd4c061.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/Carousel-3d82957b.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/Carousel-3d82957b.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/Carousel-3d82957b.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/Carousel-3d82957b.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/ColorSwatch-4196a0a9.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/ColorSwatch-4196a0a9.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/ColorSwatch-4196a0a9.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/ColorSwatch-4196a0a9.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/fbevents.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/fbevents.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/fbevents.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/fbevents.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/interopRequireDefault-c83974f7.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/interopRequireDefault-c83974f7.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/interopRequireDefault-c83974f7.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/interopRequireDefault-c83974f7.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/ll",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/ll",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/ll",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/ll"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/script.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/script.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/script.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/script.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/script(1).js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/script(1).js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/script(1).js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/script(1).js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/tccl-tti.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/tccl-tti.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/tccl-tti.min.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/tccl-tti.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/tccl.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/tccl.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/tccl.min.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/tccl.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/UX.4.34.5.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/MEDYA_files/UX.4.34.5.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/MEDYA_files/UX.4.34.5.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/image/MEDYA_files/UX.4.34.5.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/image/Yönetim.jpg",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/image/Yönetim.jpg",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "image/Yönetim.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/image/Yönetim.jpg"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/js/site.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/js/site.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "VariciDanismanlikMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/wwwroot/",
+      "ContentRoot": "/Users/varcoguzhan/Desktop/VariciDanismanlikMVC/wwwroot/",
       "BasePath": "_content/VariciDanismanlikMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
