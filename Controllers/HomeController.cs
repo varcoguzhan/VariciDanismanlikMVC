@@ -19,26 +19,12 @@ public class HomeController : Controller
     // {
     //     return View();
     // }
-    public IActionResult Services()
-    {
+    // public IActionResult Services()
+    // {
 
-        return View();
-    }
-    public IActionResult Management()
-    {
+    //     return View();
+    // }
 
-        return View();
-    }
-    public IActionResult Finance()
-    {
-
-        return View();
-    }
-    public IActionResult Education()
-    {
-
-        return View();
-    }
 
 
 }

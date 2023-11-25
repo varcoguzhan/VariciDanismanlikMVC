@@ -1,0 +1,25 @@
+@model List<Service>
+
+<div class="content-services flex-items">
+    <div class="content-inside">
+        <h1 class="m-5 title-color">Danışmanlık Hizmetlerimiz</h1>
+
+         <div class="row row-cols-lg-3  row-cols-md-2 row-cols-sm-1 row-cols-2">
+         @foreach(var service in Model)
+                    {
+            <div class="col">
+                <div class="card">
+                   
+                        <img src="~/image/@service.Image"  class="card-img-top  card-img-top-my" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@service.Title</h5>
+                        <p class="card-text">@service.Description<span>...</span><a asp-area="" 
+                        asp-controller="Service" asp-action="@service.Action" class="btn mx-5 btn-primary pt-0 ps-2 ">İncele</a> </p>
+                    </div>
+                    
+                </div>
+            </div>
+                    }
+ 
+    </div>
+</div>
