@@ -150,3 +150,9 @@
 /Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/VariciDanismanlikMVC.pdb
 /Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/VariciDanismanlikMVC.genruntimeconfig.cache
 /Users/varcoguzhan/Desktop/VariciDanismanlikMVC/obj/Debug/net7.0/ref/VariciDanismanlikMVC.dll
+/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/varcoguzhan/Desktop/REPO/VariciDanismanlikMVC/bin/Debug/net7.0/Microsoft.Extensions.Options.dll

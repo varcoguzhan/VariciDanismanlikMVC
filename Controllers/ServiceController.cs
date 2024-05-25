@@ -38,7 +38,6 @@ namespace VariciDanismanlikMVC.Controllers
         }
             public IActionResult Management()
             {
-
                 return View();
             }
             public IActionResult Finance()
